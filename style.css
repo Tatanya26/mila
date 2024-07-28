@@ -1,0 +1,115 @@
+
+body {
+  font-family: sans-serif;
+  background-color: rgb(43, 43, 43);
+}
+.logo {
+  height: 70px;
+  background-color: rgb(255, 255, 255);
+  margin: 5px;
+  border-radius: 20px;
+  padding: 5px;
+}
+
+
+header{
+background: linear-gradient(to right, rgb(0, 0, 0), rgb(2, 79, 21));
+display: flex;
+margin: -10px;
+
+
+}
+header a{
+  margin: 40px 0px 0px 180px;
+  color: white;
+  text-decoration: none;
+  border: 2px solid white;
+  border-radius: 20px;
+  padding: 5px;
+  text-align: center;
+  float: left;
+}
+h1 {
+  text-align: center;
+  font-size: 50px;
+  color: rgb(0, 178, 44);
+  border: 4px solid rgb(0, 178, 44);
+  padding: 5px;
+  margin: 2opx;
+  border-radius: 20px;
+}
+.picture {
+  border: 3px dashed rgb(0, 178, 44);
+  border-radius: 20px;
+  height: 200px;
+  width: 220px;
+  padding: 10px;
+  margin-top: 10px;
+  text-align: center;
+  justify-content: center;
+  margin-left: 350px;
+
+}
+main p {
+  border: 1px solid rgb(0, 178, 44);
+  padding: 5px;
+  margin: 10px 0px 5px 0px;
+  border-radius: 20px;
+  justify-content: center;
+  text-align: center;
+  font-size: 30px;
+}
+h2 {
+  text-align: center;
+  border-radius: 20px;
+  border: 10px dotted rgb(0, 178, 44);
+}
+.foto {
+  height: 400px;
+  margin-left:350px;
+  border-radius: 20px;
+  border: 10px solid rgb(0, 178, 44);
+  padding: 5px;
+}
+.promo{
+  height: 450px;
+  margin-left: 50px;
+}
+footer p {
+text-align: center;
+color: white;
+}
+footer{
+  background-color: rgb(0, 93, 23);
+}
+
+.Rozetka {
+  text-decoration: None;
+  color: rgb(0, 178, 44);
+  font-family: Marker Felt, fantasy;
+}
+
+p {
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  color: white;
+}
+
+h2 {
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  color: white;
+}
+
+img {
+  background-color: white;
+}
+
+footer a {
+  color: rgb(0, 178, 44);
+  text-decoration: None;
+  padding: 120px;
+}
+
+picture {
+  text-align: center;
+}
+
